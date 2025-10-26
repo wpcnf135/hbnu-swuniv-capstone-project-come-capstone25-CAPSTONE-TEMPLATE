@@ -7,8 +7,8 @@
 
 ## <u>Teamate</u> Project Background
 - ### 필요성
-  - OOO
-  - OOO
+  - 사용자가 이미지 내 텍스트를 더욱 정확하게 추출
+  - 
 - ### 기존 해결책의 문제점
   - OOO
   - OOO
